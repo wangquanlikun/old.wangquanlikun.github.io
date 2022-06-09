@@ -4,7 +4,9 @@
 ```
 ### About ME
 ```markdown
-二刺螈，冲国DD，会一点Pr和AE，VOCALOID，Linux（Ubuntu)，高中毕业生，萝莉控，百合厨。
+二刺螈，冲国DD，会一点Pr和AE，VOCALOID，Linux（Ubuntu)，高中毕业生，萝莉控，百合厨。  
+  
+二次元の炼铜术士 | 百合赛高，芳文社大好き
 ```
 
 Twitter [Link](https://twitter.com/wangquanlikun)   
