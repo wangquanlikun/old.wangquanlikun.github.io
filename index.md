@@ -43,7 +43,6 @@ HDD使用空间 ： 约2T
 
 ## &emsp;   
 
-Copyright all rights reserved  
 © 2022 wangquan  
 
 
