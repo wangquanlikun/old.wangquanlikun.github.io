@@ -41,9 +41,10 @@ LSP，二次元の炼铜术士，百合赛高，芳文社大好き，リトル�
 已保存GalGame类资源 ： 21  
 HDD使用空间 ： 约2T  
 
-##   
+## &emsp;   
 
-Copyright all rights reserved | © 2022 wangquan  
+Copyright all rights reserved  
+© 2022 wangquan  
 
 
 under update  
