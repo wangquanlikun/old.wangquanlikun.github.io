@@ -8,9 +8,11 @@
 ```
 ## About ME
 
-二刺螈，冲国DD，会一点Pr和AE，VOCALOID，Linux（Ubuntu），高中毕业生，萝莉控，百合厨。  
+二刺螈，冲国DD，会一点Pr和AE，VOCALOID，Linux（Ubuntu），萝莉控，百合厨。  
   
-LSP，二次元の炼铜术士，百合赛高，芳文社大好き，リトルロリは最高です！
+LSP，二次元の炼铜术士，百合赛高，芳文社大好き，リトルロリは最高です！  
+
+刚刚高中毕业的学渣是也！  
 
 #### Links
 **Twitter** [Link](https://twitter.com/wangquanlikun)   
@@ -47,4 +49,4 @@ HDD使用空间 ： 约2T
 
 
 under update  
-手动统计：本站上次更新于 2022年6月11日
+手动统计：本站上次更新于 2022年6月16日
