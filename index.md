@@ -12,7 +12,7 @@
   
 LSP，二次元の炼铜术士，百合赛高，芳文社大好き，リトルロリは最高です！  
 
-刚刚高中毕业的学渣是也！  
+BUPT的CS初学者  
 
 #### Links
 **Twitter** [Link](https://twitter.com/wangquanlikun)   
