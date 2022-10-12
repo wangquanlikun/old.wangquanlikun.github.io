@@ -18,10 +18,11 @@ BUPT的CS初学者
 **Twitter** [Link](https://twitter.com/wangquanlikun)   
 **Telegram(via bot)** [Link](https://t.me/ddbot_wangquan_bot)   
 **Bilibili** [Link](https://space.bilibili.com/346699824)   
+**Github** [Link](https://github.com/wangquanlikun)   
 
 ## Pages
 
-**Projects** [Link](https://wangquanlikun.github.io/PROJECTS)  
+**Projects** [WQPRO](https://wangquanlikun.github.io/PROJECTS)  
 **Blogs** [Link](https://wangquanlikun.github.io/BLOG)  
 
 ## &emsp;   
