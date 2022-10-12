@@ -12,7 +12,11 @@
   
 LSP，二次元の炼铜术士，百合赛高，芳文社大好き，リトルロリは最高です！  
 
-BUPT的CS初学者  
+BUPT的CS初学者
+
+ ![IMAGE](https://github.com/wangquanlikun/wangquanlikun.github.io/blob/main/IMAGES/97987540_p0.png?raw=true)  
+ &emsp;  
+ Ciallo～(∠・ω< )⌒★  
 
 #### Links
 **Twitter** [Link](https://twitter.com/wangquanlikun)   
