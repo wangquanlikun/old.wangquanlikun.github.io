@@ -12,11 +12,11 @@
   
 LSP，二次元の炼铜术士，百合赛高，芳文社大好き，リトルロリは最高です！  
 
-BUPT的CS初学者
+Galgame，是柚子厨
 
- ![IMAGE](https://github.com/wangquanlikun/wangquanlikun.github.io/blob/main/IMAGES/97987540_p0.png?raw=true)  
+![IMAGE](https://github.com/wangquanlikun/wangquanlikun.github.io/blob/main/IMAGES/97987540_p0.png?raw=true)  
  &emsp;  
- Ciallo～(∠・ω< )⌒★  
+Ciallo～(∠・ω< )⌒★  
 
 #### Links
 **Twitter** [Link](https://twitter.com/wangquanlikun)   
@@ -28,6 +28,7 @@ BUPT的CS初学者
 
 **Projects** [WQPRO](https://wangquanlikun.github.io/PROJECTS)  
 **Blogs** [Link](https://wangquanlikun.github.io/BLOG)  
+**Old Website** [Github](https://wangquanlikun.github.io/OLD) / [Origin](https://wangquankun.zyrosite.com/)  
 
 ## &emsp;   
 
