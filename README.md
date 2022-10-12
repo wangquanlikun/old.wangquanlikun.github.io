@@ -7,5 +7,4 @@
 **Thanks for your watching.**  
 感谢您的浏览  
 &emsp;   
-&emsp;   
 来自CS初学者的尝试
