@@ -21,8 +21,8 @@ BUPT的CS初学者
 
 ## Pages
 
-**Projects** [Link](https://wangquanlikun.github.io/PROJECTS)
-**Blogs** [Link](https://wangquanlikun.github.io/BLOG)
+**Projects** [Link](https://wangquanlikun.github.io/PROJECTS)  
+**Blogs** [Link](https://wangquanlikun.github.io/BLOG)  
 
 ## &emsp;   
 
