@@ -26,14 +26,15 @@ Ciallo～(∠・ω< )⌒★
 
 ## Pages
 
-**Projects** [WQPRO](https://wangquanlikun.github.io/PROJECTS)  
-**Blogs** [Link](https://wangquanlikun.github.io/BLOG)  
-**Old Website** [Github](https://wangquanlikun.github.io/OLD) / [Origin](https://wangquankun.zyrosite.com/)  
+**Projects** - 做有趣的项目 [WQPRO](https://wangquanlikun.github.io/PROJECTS)  
+**Blogs** - 个人博客 [Link](https://wangquanlikun.github.io/BLOG)  
+**Resource Sharing** - 分享资源 [Link](https://wangquanlikun.github.io/RESOURCE_SHARE)   
+**Old Website** - 过去的个人网站 &emsp; [Github](https://wangquanlikun.github.io/OLD) 重编写&备份 / [Origin](https://wangquankun.zyrosite.com/) 原网页  
 
 ## &emsp;   
 
 © 2022 wangquan  
 
 
-under update  
-手动统计：本站上次更新于 2022年10月12日
+Under update  
+手动统计：本站上次更新于 2022年10月14日
