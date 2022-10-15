@@ -71,5 +71,5 @@
 # &emsp;   
 回到主页 [MAIN](https://wangquanlikun.github.io/)   
 &emsp;   
-本内容以 CC BY‑SA 4.0 许可证共享  
+本内容以 [CC BY‑SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可证共享  
 © 2022 wangquan  
