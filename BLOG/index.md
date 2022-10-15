@@ -20,7 +20,7 @@
 ![IMAGE-GALGAME](https://github.com/wangquanlikun/wangquanlikun.github.io/blob/main/IMAGES/blog_07_14__22.jpg?raw=true)  
 
 ### 2022.07.08  
-<img align="right" width="80" src="https://github.com/wangquanlikun/wangquanlikun.github.io/blob/main/IMAGES/blog_07_08__22.jpg?raw=true">
+<img align="right" width="160" src="https://github.com/wangquanlikun/wangquanlikun.github.io/blob/main/IMAGES/blog_07_08__22.jpg?raw=true">
 从过去到现在，无论是谁，想必都见过中国制作与放映的电影的变化。  
 有的人归因于**文化自信**。我们确实自信了，因为已经没有外来文化了。但是，从我们自己拍摄的电影来看，我们又正在失去仅剩的这一点自信。  
 在审核中的有关法律法规，看似无形，又在逐渐收紧。仿佛就像B站先审后播之时，有人认为只要有了明确的审核标准，就有理由回应无理的举报一样。  
