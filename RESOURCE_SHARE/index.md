@@ -20,6 +20,26 @@
 **AI人工智能图片放大** 
  [Link](https://bigjpg.com/)   
  
+#### File Destructor  
+**Make trashed files!!**  制作损坏的文件   [Link](https://www.xnet.se/fd/)   
+
+#### Free Online OCR  
+**Image to text converter using OCR online**  在线OCR工具  [Link](https://www.onlineocr.net/)   
+
+#### Online Video Tools  
+**All-in-one easy-to-use online video tools.**  在线视频工具  [Link](https://clideo.com/)     
+
+#### Photopea  
+**Online Photo Editor**   在线图片编辑器   [Link](https://www.photopea.com/)     
+
+#### 幼女code  
+**反和谐超级武器!** [Link](https://unvcode.librian.net/) / [Github](https://github.com/RimoChan/unvcode)     
+
+#### YouTube Video Downloader  
+**Download Video and Audio from YouTube**  [Link](https://www.y2mate.com)     
+
+#### 
+ 
 ### &emsp;   
  
 ## **ACG**  
