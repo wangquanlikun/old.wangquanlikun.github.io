@@ -6,7 +6,7 @@
 >日々私たちが過ごしている日常は、実は、奇跡の連続なのかもしれない。  
 
 ## About ME
-<img align="right" width="300" src="https://github.com/wangquanlikun/wangquanlikun.github.io/blob/main/IMAGES/89442370_p0.jpg?raw=true">
+<img align="right" width="290" src="https://github.com/wangquanlikun/wangquanlikun.github.io/blob/main/IMAGES/89442370_p0_patch.jpg?raw=true">
 
 二刺螈，冲国DD，会一点Pr和AE，术力口/VOCALOID，Linux（Ubuntu），萝莉控，百合厨。  
   
