@@ -6,18 +6,18 @@
 >日々私たちが過ごしている日常は、実は、奇跡の連続なのかもしれない。  
 
 ## About ME
-<img align="right" width="210" src="https://github.com/wangquanlikun/wangquanlikun.github.io/blob/main/IMAGES/89442370_p0_patch.jpg?raw=true">
+<img align="right" width="185" src="https://github.com/wangquanlikun/wangquanlikun.github.io/blob/main/IMAGES/89442370_p0_patch.jpg?raw=true">
 
 二刺螈，冲国DD，会一点Pr和AE，术力口/VOCALOID，Linux（Ubuntu），萝莉控，百合厨。  
-  
+
 LSP，二次元の炼铜术士，百合赛高，芳文社大好き，リトルロリは最高です！  
 
-追番人，喜欢的番剧包括但不限于轻音少女、街角魔族、小林家的龙女仆、魔女之旅、魔法少女小圆、少女终末旅行、学园孤岛、点兔、DATE·A·LIVE等
+追番人，喜欢的番剧包括但不限于轻音少女、街角魔族、小林家的龙女仆、魔女之旅、魔法少女小圆、少女终末旅行、学园孤岛、点兔、DATE·A·LIVE等  
 
 碧蓝航线/AZUR LANE的指挥官，蔚蓝档案/Blue Archive的Hentai Sensei，原神/Genshin Impact的旅行者  
 ( 🎀ᗜ`˰´ᗜ 🌸)💈❌ ~~（别在这理发店！）~~  
 
-Galgame，是柚子厨 &emsp;
+Galgame，是柚子厨 &emsp; 
 Ciallo～(∠・ω< )⌒★  
 
 #### Links
