@@ -12,6 +12,9 @@
   
 LSP，二次元の炼铜术士，百合赛高，芳文社大好き，リトルロリは最高です！  
 
+碧蓝航线/AZUR LANE的指挥官，蔚蓝档案/Blue Archive的Hentai Sensei，原神/Genshin Impact的旅行者  
+( 🎀ᗜ`˰´ᗜ 🌸)💈❌  
+
 Galgame，是柚子厨
 
 ![IMAGE](https://github.com/wangquanlikun/wangquanlikun.github.io/blob/main/IMAGES/97987540_p0.png?raw=true)  
