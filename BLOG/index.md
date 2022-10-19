@@ -9,7 +9,7 @@
 ### 2022.10.09  
 **所有妄图粉饰战争的人，都没有见过真正的战场**  
 **和平的时间久了，就以为是理所应当**  
-![SPY×FAMILY](https://github.com/wangquanlikun/wangquanlikun.github.io/blob/main/IMAGES/blog_10_09__22.jpg?raw=true)  
+<img align="middle" width="800" src="https://github.com/wangquanlikun/wangquanlikun.github.io/blob/main/IMAGES/blog_10_09__22.jpg?raw=true">  
 我们在大学究竟应该学到什么？  
 极端民族主义者的出路难道是正确的吗？  
 在俄乌战争的当下，我们还能看到什么？  
