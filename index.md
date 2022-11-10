@@ -25,6 +25,7 @@ Ciallo～(∠・ω< )⌒★
 **Telegram(via bot)** [Link](https://t.me/ddbot_wangquan_bot)   
 **Bilibili** [Link](https://space.bilibili.com/346699824)   
 **Github** [Link](https://github.com/wangquanlikun)   
+**Luogu Blog** [Link](https://www.luogu.com.cn/blog/wangquanlikun/#)   
 
 ## Pages
 
