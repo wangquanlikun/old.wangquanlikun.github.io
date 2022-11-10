@@ -21,11 +21,11 @@ Galgame，是柚子厨 &emsp;
 Ciallo～(∠・ω< )⌒★  
 
 #### Links
-**Twitter** [Link](https://twitter.com/wangquanlikun)   
-**Telegram(via bot)** [Link](https://t.me/ddbot_wangquan_bot)   
-**Bilibili** [Link](https://space.bilibili.com/346699824)   
-**Github** [Link](https://github.com/wangquanlikun)   
-**Luogu Blog** [Link](https://www.luogu.com.cn/blog/wangquanlikun/#)   
+###### **Twitter** [Link](https://twitter.com/wangquanlikun)   
+###### **Telegram(via bot)** [Link](https://t.me/ddbot_wangquan_bot)   
+###### **Bilibili** [Link](https://space.bilibili.com/346699824)   
+###### **Github** [Link](https://github.com/wangquanlikun)   
+###### **Luogu Blog** [Link](https://www.luogu.com.cn/blog/wangquanlikun/#)   
 
 ## Pages
 
