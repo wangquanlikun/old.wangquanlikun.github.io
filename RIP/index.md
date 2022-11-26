@@ -1,5 +1,5 @@
 ### R.I.P.  
-<img align="right" width="300" src="https://github.com/wangquanlikun/wangquanlikun.github.io/blob/main/RIP/Candle.jpg?raw=true">
+<img align="right" width="288" src="https://github.com/wangquanlikun/wangquanlikun.github.io/blob/main/RIP/Candle.jpg?raw=true">
 
 >希望每一个人都明白  
 >我们都可能在贵州翻车的转运大巴车上  
