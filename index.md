@@ -22,7 +22,7 @@ Ciallo～(∠・ω< )⌒★
 
 ### Links
 ##### **Twitter** [Link](https://twitter.com/wangquanlikun)   
-##### **Mastodon** [Link](https://wxw.moe/@Wangquankun)
+##### **Mastodon** <a rel="me" href="https://wxw.moe/@Wangquankun">Link</a>
 ##### **Telegram(via bot)** [Link](https://t.me/ddbot_wangquan_bot)   
 ##### **Bilibili** [Link](https://space.bilibili.com/346699824)   
 ##### **Github** [Link](https://github.com/wangquanlikun)   
